@@ -1,6 +1,7 @@
 RAM-Based-001-Sequence-Detector
 
-![image](https://user-images.githubusercontent.com/82434808/122651325-b429dd80-d155-11eb-8aad-893508210728.png)
+001 FSM Logic:
+![image](https://user-images.githubusercontent.com/82434808/122651421-53e76b80-d156-11eb-9c31-e7212e5fd1bd.png)
 
 Memory Write Operation:
 
